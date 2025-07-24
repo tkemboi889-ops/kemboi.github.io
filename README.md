@@ -18,6 +18,5 @@ I am and aspiring software developer passionate about backend web development sp
 
 ---
 ##CONTACTS
-
 -
 YOU can call me via +254714490437 or via the email:tkemboi889@gmail.com.
