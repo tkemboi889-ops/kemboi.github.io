@@ -6,7 +6,7 @@ welcome to my portfolio page
 I am and aspiring software developer passionate about backend web development specialized in backend programming languages like python,SQL,DJANGO,GIT AND GITHUB.I have strong skills in problem solving,leading self ,collaboration and teamwork.
 
 ---
-##skills
+##SKILLS
 
 ---
 -problem solving
@@ -17,6 +17,6 @@ I am and aspiring software developer passionate about backend web development sp
 -git&github.
 
 ---
-##CONTACTS
+##CONTACT information
 -
 YOU can call me via +254714490437 or via the email:tkemboi889@gmail.com.
