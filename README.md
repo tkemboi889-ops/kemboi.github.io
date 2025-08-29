@@ -1,24 +1,31 @@
-# kemboi.github.io
-welcome to my portfolio page
+ Hi there, I'm Timothy 👋
+
+## 🚀 About Me
+- 🎓 Currently studying Software Engineering
+- 💻 Passionate about Backend Development (Python, APIs, Databases)
+- 🎯 Goal: Become a world-class backend developer solving real-world problems
 
 ---
-##ABOUT ME.
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, 
+- **Frameworks:**  Django
+- **Databases:** MySQL, 
+- **Tools:** Git, GitHub,
 
 ---
-I am and aspiring software developer passionate about backend web development specialized in backend programming languages like python,SQL,DJANGO,GIT AND GITHUB.I have strong skills in problem solving,leading self ,collaboration and teamwork.
+
+
 
 ---
-##SKILLS
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
--problem solving
--collaboaration
--python
--django
--sql
--git&github.
 
----
-##CONTACT information
--
-YOU can call me via +254714490437 or via the email:tkemboi889@gmail.com.
+## 🌐 Connect With Me
+- 📧 Email: [youremail@example.com](tkemboi889@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/timothy-kemboi-58a7532a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbI%2B4s%2FnLS%2BGZ15gLh5wTsQ%3D%3D)
+- 📝 Blog/Portfolio: [yourwebsite.com]()
+
