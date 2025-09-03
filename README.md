@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: [](tkemboi889@gmail.com)
-- 💼 LinkedIn: [](https://www.linkedin.com/in/timothy-kemboi-58a7532a8?)
-- 📝 Blog/Portfolio: []([https://sites.google.com/view/timothy-kemboi?usp=sharing)
+- 📧 Email: [(tkemboi889@gmail.com](tkemboi889@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/timothy-kemboi-58a7532a8?](https://www.linkedin.com/in/timothy-kemboi-58a7532a8?)
+- 📝 Blog/Portfolio: [https://sites.google.com/view/timothy-kemboi?usp=sharing](https://sites.google.com/view/timothy-kemboi?usp=sharing)
 
