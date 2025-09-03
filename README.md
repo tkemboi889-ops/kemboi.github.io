@@ -4,7 +4,7 @@
 - 🎓 Currently studying Software Engineering
 - 💻 Passionate about Backend Development (Python, APIs, Databases)
 - 🎯 Goal: Become a world-class backend developer solving real-world problems
-
+- 
 ---
 
 ## 🛠️ Skills & Tools
